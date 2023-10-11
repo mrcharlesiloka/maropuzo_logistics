@@ -52,11 +52,24 @@ include ('menu_h.php');
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12">
-								<div class="offer-post">
+								<div class="offer-post"><h2> Our Services</h2>
+<p>We transport coal from the mines to power stations and Ports in South Africa.
+<br><?php echo $site_title ?> operates as a contractor and provides sub-contracting opportunities to small transporters to all SADC regions. <br>
+We transport coal for our clients and offer our subcontractors profitable opportunities.
+
+<br></p><br>
+
 									<h2><a href="services.html">Subcontracting</a></h2>
-									<p>We organize sub-contractor vehicles, all of which have undergone a meticulous approval process conducted by us.<br>
+									<p>We organize sub-contractor vehicles, all of which have undergone a meticulous approval process conducted by us and ESKOM.<br>
 <br>
-We regard our approved transporters as valued collaborators and cherish the personal connections we've established with them, recognizing the significance of these relationships in our business.</p>
+We regard our approved transporters as valued collaborators and cherish the personal connections we've established with them, recognizing the significance of these relationships in our business.
+<br>
+<br>
+We have been able to establish amazing relationships with several reputable companies.
+<br>
+
+Contact us for more information.
+</p>
 								</div>
 							</div>
 						</div>
@@ -73,29 +86,23 @@ We regard our approved transporters as valued collaborators and cherish the pers
 							<div class="col-sm-12">
 								<div class="services-wrapp">
 									<div class="row">
-										<div class="col-md-6">
+										<div class="col-md-4">
 											<div class="services-post">
-												<img src="upload/others/con3.jpg" alt="">
-												<ul>
-												  <li>Municipalities, Provincial and National Departments.</li>
-												  <li>Parastatals.</li>
-												  <li>Mining, Construction and Exploration Sites.</li>
-												  <li>Airports and Aviation entities.</li>
-												  <li>Farms and manufacturing entities.</li>
-												  <li>Heavy Industries.</li>
-											  </ul>
+												<img src="upload/slide/1.jpg" alt="">
+												
 												<p>&nbsp;</p>
 										  </div>
 										</div>
-										<div class="col-md-6">
+										<div class="col-md-4">
 											<div class="services-post">
-												<img src="upload//projects/5.jpg" alt="">
-												<p>We have been able to establish amazing relationships with several reputable companies.<br>
-												  Among them are the following: -<br>
-											    - No 1 Online Solutions<br>
-- MacDonald's Transport<br>
-- Elabdsfontein Colliery<br>
-- Moffats Logistics</p>
+												<img src="upload/slide/2.jpg" alt="">
+												
+										  </div>
+										</div>
+										<div class="col-md-4">
+											<div class="services-post">
+												<img src="upload/slide/3.jpg" alt="">
+												
 										  </div>
 										</div>
 									</div>

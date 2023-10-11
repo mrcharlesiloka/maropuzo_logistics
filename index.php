@@ -313,7 +313,7 @@ include ('menu_h.php');
 					================================================== -->
 				<section class="banner-section">
 					<div class="container">
-						<h2><?php echo $site_title ?> (PTY) LTD is a 100% black South African woman owned, managed and controlled company. With major operational focus in commercial transportation services.</h2>
+						<h2><?php echo $site_title ?> (PTY) LTD is a 100% black South African woman-owned, managed and controlled logistics company. With a major operational focus on commercial transportation services.</h2>
 					</div>
 				</section>
 				<!-- End banner section -->
@@ -323,24 +323,25 @@ include ('menu_h.php');
 				<section class="services-offer-section">
 					<div class="container">
 						<div class="row">
-							<div class="col-sm-4">
+							<div class="col-sm-6">
 								<div class="offer-post">
 									<h2><a href="services.html">OUR VISON</a></h2>
-									<p>We aim to thrive alongside the evolving South Africa, aligning ourselves with its policies.</p>
+									<p>We strive to be the most efficient logistics provider in South Africa. Delivering hitch-free, consistent, professional and quality services to all our clients. 
+</p>
 								</div>
 							</div>
-							<div class="col-sm-4">
+							<div class="col-sm-6">
 								<div class="offer-post">
 									<h2><a href="services.html">OUR MISSION</a></h2>
-									<p>To excel as a premier service provider, delivering top-notch services while also fostering job creation and promoting equal opportunities.</p>
+									<p>To consistently develop and place strategies  and programs that will ensure:<br>
+- [ ] Professionalism <br>
+- [ ] Efficiency of delivering goods to clients<br>
+- [ ] Up-to-date fleet with minimal delays in transit <br>
+- [ ] Utilisation of competitive opportunities
+</p>
 								</div>
 							</div>
-							<div class="col-sm-4">
-								<div class="offer-post">
-									<h2><a href="services.html">Business Mission</a></h2>
-									<p>Our primary goal is to safeguard and advance the interests of all stakeholders associated with <?php echo $site_title ?>.</p>
-								</div>
-							</div>
+							
 						</div>
 					</div>
 				</section>
@@ -390,14 +391,17 @@ include ('menu_h.php');
 									<a class="zoom" href="upload/projects/6.jpg"><i class="fa fa-search"></i></a>
 								</div>
 							</div>
-						</div>
+						</div><br>
+<br>
+
+						<div><font style="background-color:#FFFFFF;" size="4"> &nbsp; <a href="gallery" class="button"><i class="fa fa-camera"></i> More Photos</a> &nbsp; </font></div>
 					</div>
 				</section>
 				<!-- End projects -->
 
 				<!-- tabs-section 
 					================================================== -->
-				<section class="tabs-section">
+				<!-- <section class="tabs-section">
 					<div class="container">
 						<div class="row">
 
@@ -440,7 +444,8 @@ include ('menu_h.php');
 						</div>
 					</div>
 				</section>
-				<!-- End tabs section -->
+				
+				End tabs section -->
 
 				
 

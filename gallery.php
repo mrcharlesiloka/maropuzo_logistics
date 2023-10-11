@@ -111,8 +111,39 @@ include ('menu_h.php');
 								</div>
 							</div>
 							
+							<div class="project-post energy">
+								<img src="upload/projects/7.jpg" alt="">
+								<div class="hover-box">
+									<a class="zoom" href="upload/projects/7.jpg"><i class="fa fa-search"></i></a>
+								</div>
+							</div>
 							
+							<div class="project-post energy">
+								<img src="upload/projects/8.jpg" alt="">
+								<div class="hover-box">
+									<a class="zoom" href="upload/projects/8.jpg"><i class="fa fa-search"></i></a>
+								</div>
+							</div>
 							
+							<div class="project-post energy">
+								<img src="upload/projects/9.jpg" alt="">
+								<div class="hover-box">
+									<a class="zoom" href="upload/projects/9.jpg"><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+							<div class="project-post energy">
+								<img src="upload/projects/10.jpg" alt="">
+								<div class="hover-box">
+									<a class="zoom" href="upload/projects/10.jpg"><i class="fa fa-search"></i></a>
+								</div>
+							</div>
+							
+							<div class="project-post energy">
+								<img src="upload/projects/11.jpg" alt="">
+								<div class="hover-box">
+									<a class="zoom" href="upload/projects/11.jpg"><i class="fa fa-search"></i></a>
+								</div>
+							</div>
 						</div>
 					</div>
 				</section>
