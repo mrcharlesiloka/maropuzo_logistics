@@ -53,7 +53,7 @@ include ('menu_h.php');
 						<div class="row">
 							<div class="col-sm-6">
 								<div class="offer-post">
-									<h2><a href="services.html">OUR VISON</a></h2>
+									<h2><a href="services">OUR VISON</a></h2>
 									<p>We strive to be the most efficient logistics provider in South Africa. <br>
 Delivering hitch-free, consistent, professional and quality services to all our clients. 
 </p>
@@ -61,7 +61,7 @@ Delivering hitch-free, consistent, professional and quality services to all our 
 							</div>
 							<div class="col-sm-6">
 								<div class="offer-post">
-									<h2><a href="services.html">OUR MISSION</a></h2>
+									<h2><a href="services">OUR MISSION</a></h2>
 									<p>To consistently develop and place strategies  and programs that will ensure:<br>
 - [ ] Professionalism <br>
 - [ ] Efficiency of delivering goods to clients<br>
