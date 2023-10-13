@@ -53,9 +53,8 @@ include ('menu_h.php');
 						<div class="row">
 							<div class="col-sm-12">
 								<div class="offer-post"><h2> Our Services</h2>
-<p>We transport coal from the mines to power stations and Ports in South Africa.
-<br><?php echo $site_title ?> operates as a contractor and provides sub-contracting opportunities to small transporters to all SADC regions. <br>
-We transport coal for our clients and offer our subcontractors profitable opportunities.
+<p>We transport coal from the mines to power stations and Ports in South Africa. 
+<br><?php echo $site_title ?> operates as a contractor and provides sub-contracting opportunities to small transporters for short and long distances within South Africa.
 
 <br></p><br>
 

@@ -20,9 +20,9 @@
 							</div>	
 							<div class="col-sm-3">
 								<ul class="social-icons">
-									<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+									<li><a class="facebook" href="https://web.facebook.com/maropuzologistics.za"><i class="fa fa-facebook"></i></a></li>
 									<li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
-									<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+									<li><a class="linkedin" href="https://www.linkedin.com/company/maropuzo-logistics/"><i class="fa fa-linkedin"></i></a></li>
 								</ul>
 							</div>	
 						</div>

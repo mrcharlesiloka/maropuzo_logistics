@@ -91,9 +91,8 @@ Delivering hitch-free, consistent, professional and quality services to all our 
 The leadership of the company is engaged, responsive and reliable and will be proud to have you as one of our valued clients.</p><br>
 
 <h1> Our Services</h1>
-<p>We transport coal from the mines to power stations and Ports in South Africa.
-<br><?php echo $site_title ?> operates as a contractor and provides sub-contracting opportunities to small transporters to all SADC regions. <br>
-We transport coal for our clients and offer our subcontractors profitable opportunities.
+<p>We transport coal from the mines to power stations and Ports in South Africa. 
+<br><?php echo $site_title ?> operates as a contractor and provides sub-contracting opportunities to small transporters for short and long distances within South Africa.
 
 <br></p>
 									
